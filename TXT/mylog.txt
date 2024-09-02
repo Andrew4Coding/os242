@@ -17,3 +17,4 @@ ZCZC W00 30 L02 Quiz Zoom Meeting
 ZCZC W00 30 L00 Go To Church
 ZCZC W00 30 L03 Update Log in Github
 ZCZC W01 120 L09 Weekly Assignments
+ZCZC W01 60 L04 Setup Github Pages for Links and Index view
