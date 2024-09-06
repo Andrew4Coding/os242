@@ -21,3 +21,7 @@ ZCZC W01 60 L04 Setup Github Pages for Links and Index view
 ZCZC W01 100 L02 Classroom meet
 ZCZC W01 40 L09 Week 1 Assignment
 ZCZC W01 100 L02 Classroom meet
+ZCZC W01 10 L03 Setting up Github
+ZCZC W01 120 L00 DDP0 Mentoring
+ZCZC W01 30 L05 Quiz 1 
+ZCZC W01 30 L02 Quiz 1 Zoom Meeting
