@@ -25,3 +25,7 @@ ZCZC W01 10 L03 Setting up Github
 ZCZC W01 120 L00 DDP0 Mentoring
 ZCZC W01 30 L05 Quiz 1 
 ZCZC W01 30 L02 Quiz 1 Zoom Meeting
+ZCZC W01 90 L00 Going To Church
+ZCZC W01 120 L00 Attending Church
+ZCZC W01 480 L00 Have fun in Central Park Mall
+ZCZC W01 90 L00 Going Home
