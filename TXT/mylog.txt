@@ -30,3 +30,4 @@ ZCZC W01 120 L00 Attending Church
 ZCZC W01 480 L00 Have fun in Central Park Mall
 ZCZC W01 90 L00 Going Home
 ZCZC W02 120 L02 Attending OS Class
+ZCZC W02 120 L09 Week 2 Assignment
