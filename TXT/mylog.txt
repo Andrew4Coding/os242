@@ -47,5 +47,8 @@ ZCZC W02 20 L64 Help Friends with backup ssh
 REC2="60914D29C01C81F10
 ZCZC W02 20 L84 Resting for a while before continue tidying up my log
 ZCZC W02 120 L07 Preparing for Alin Quiz
-ZCZC W02 10 L64 Helping my friends with for Alin Quiz
 ZCZC W02 10 L41 Updating my log
+ZCZC W02 10 L64 Helping My friends with OS Assignment 2
+ZCZC W02 20 L05 OS Weekly Quiz 2
+ZCZC W02 120 L88 Jogging
+ZCZC W02 5 L41 Updating My Log
