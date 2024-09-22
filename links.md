@@ -13,6 +13,9 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [How to use Grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) --- How to use grep for daily life!
 * [Understanding Tarball](https://www.cyberciti.biz/faq/how-to-tar-a-file-in-linux-using-command-line/) --- Understand tarball deeper
 * [Tar vs Zip](https://stackoverflow.com/questions/10540935/what-is-the-difference-between-tar-and-zip) ---- What's the difference between tar and zip command in linux
+* [SSH Commands and Usages](https://www.ssh.com/academy/ssh/command#:~:text=A%20little%20history-,SSH%20Command%20in%20Linux,SSH%20from%20a%20remote%20location.) --- How to use SSH Commands
+* [gpg Cheat Sheet](https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) --- Cheatsheet for gpg
+* [How to change language](https://askubuntu.com/questions/133318/how-do-i-change-the-language-via-a-terminal) --- Just to make sure you don't screwed the pop quiz caused by wrong language setup hehe
 
 <br>
 <hr>

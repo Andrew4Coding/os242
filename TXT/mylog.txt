@@ -60,3 +60,5 @@ ZCZC W03 20 L64 Helping my friends with virtual box
 ZCZC W03 20 L01 Answering Pop Quiz 3
 ZCZC W03 20 L41 Updating my log
 ZCZC W03 100 L02 Attending OS Class
+ZCZC W03 20 L01 Doing Pop Quiz
+ZCZC W03 20 L13 Rechecking Assigment 3
