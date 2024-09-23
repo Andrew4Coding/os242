@@ -44,7 +44,6 @@ ZCZC W02 30 L24 Make bash script to grade ddp-1 faster
 ZCZC W02 10 L44 rerun myscript.sh 
 ZCZC W02 20 L41 Fix my ambaradur log
 ZCZC W02 20 L64 Help Friends with backup ssh
-REC2="60914D29C01C81F10
 ZCZC W02 20 L84 Resting for a while before continue tidying up my log
 ZCZC W02 120 L07 Preparing for Alin Quiz
 ZCZC W02 10 L41 Updating my log
@@ -62,3 +61,5 @@ ZCZC W03 20 L41 Updating my log
 ZCZC W03 100 L02 Attending OS Class
 ZCZC W03 20 L01 Doing Pop Quiz
 ZCZC W03 20 L13 Rechecking Assigment 3
+ZCZC W03 120 L02 Attending OS Class
+ZCZC W03 120 L99 Demoing DDP-1 With few 24 Students
