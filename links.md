@@ -16,6 +16,9 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [SSH Commands and Usages](https://www.ssh.com/academy/ssh/command#:~:text=A%20little%20history-,SSH%20Command%20in%20Linux,SSH%20from%20a%20remote%20location.) --- How to use SSH Commands
 * [gpg Cheat Sheet](https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/) --- Cheatsheet for gpg
 * [How to change language](https://askubuntu.com/questions/133318/how-do-i-change-the-language-via-a-terminal) --- Just to make sure you don't screwed the pop quiz caused by wrong language setup hehe
+* [Mount File System in Linux](https://www.linode.com/docs/guides/mount-file-system-on-linux/)
+* [Chmod code meaning](https://www.nexcess.net/help/what-is-chmod/)
+* (Chown command)[https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/] --- How to use chown in linux
 
 <br>
 <hr>
