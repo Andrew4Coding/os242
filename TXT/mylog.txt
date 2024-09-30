@@ -63,3 +63,8 @@ ZCZC W03 20 L01 Doing Pop Quiz
 ZCZC W03 20 L13 Rechecking Assigment 3
 ZCZC W03 120 L02 Attending OS Class
 ZCZC W03 120 L99 Demoing DDP-1 With few 24 Students
+ZCZC W04 120 L02 Attending OS Class
+ZCZC W04 30 L14 Doing Week 4 Assignment
+ZCZC W04 120 L00 Going to church
+ZCZC W04 120 L32 Watching Async OS Videos
+ZCZC W04 20 L01 Answering pop quiz 4
