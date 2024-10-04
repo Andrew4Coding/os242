@@ -68,3 +68,8 @@ ZCZC W04 30 L14 Doing Week 4 Assignment
 ZCZC W04 120 L00 Going to church
 ZCZC W04 120 L32 Watching Async OS Videos
 ZCZC W04 20 L01 Answering pop quiz 4
+ZCZC W05 120 L02 Attending OS Class
+ZCZC W05 300 L15 Doing Assignment 5
+ZCZC W05 200 L01 Doing Pop Quiz
+ZCZC W05 40 L05 Doing W05 Quiz
+ZCZC W05 40 L05 Doing W05 Pop Quzzez
