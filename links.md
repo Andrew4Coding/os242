@@ -18,8 +18,9 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [How to change language](https://askubuntu.com/questions/133318/how-do-i-change-the-language-via-a-terminal) --- Just to make sure you don't screwed the pop quiz caused by wrong language setup hehe
 * [Mount File System in Linux](https://www.linode.com/docs/guides/mount-file-system-on-linux/)
 * [Chmod code meaning](https://www.nexcess.net/help/what-is-chmod/)
-* (Chown command)[https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/] --- How to use chown in linux
-
+* [Chown command](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/) --- How to use chown in linux
+* [Compress using TAR](https://www.geeksforgeeks.org/tar-command-linux-examples/)
+* [Paging in OS](https://www.geeksforgeeks.org/paging-in-operating-system/)
 <br>
 <hr>
 
