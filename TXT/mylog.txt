@@ -73,3 +73,6 @@ ZCZC W05 300 L15 Doing Assignment 5
 ZCZC W05 200 L01 Doing Pop Quiz
 ZCZC W05 40 L05 Doing W05 Quiz
 ZCZC W05 40 L05 Doing W05 Pop Quzzez
+ZCZC W05 120 L01 Going to church
+ZCZC W05 100 L15 Fixing Assignment 5
+ZCZC W05 20 L05 Doing Pop Quiz Again
