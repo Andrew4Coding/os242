@@ -76,3 +76,5 @@ ZCZC W05 40 L05 Doing W05 Pop Quzzez
 ZCZC W05 120 L01 Going to church
 ZCZC W05 100 L15 Fixing Assignment 5
 ZCZC W05 20 L05 Doing Pop Quiz Again
+ZCZC W05 120 L02 Attending OS Class
+ZCZC W05 120 L15 Fixing Assignment 5
