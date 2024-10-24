@@ -78,3 +78,5 @@ ZCZC W05 100 L15 Fixing Assignment 5
 ZCZC W05 20 L05 Doing Pop Quiz Again
 ZCZC W05 120 L02 Attending OS Class
 ZCZC W05 120 L15 Fixing Assignment 5
+ZCZC W06 100 L02 Attending OS Class
+ZCZC W06 120 L16 Doing Week 6 Assignments
