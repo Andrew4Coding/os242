@@ -83,3 +83,6 @@ ZCZC W06 120 L16 Doing Week 6 Assignment
 ZCZC W06 120 L05 Doing Pop Quizez
 ZCZC W07 120 L02 Attending OS Class
 ZCZC W07 120 L17 Doing OS Assignment
+ZCZC W07 120 L02 Attending OS Class
+ZCZC W07 120 L17 Doing Week 07 Assignment
+ZCZC W07 120 L05 Doing Pop Quizzes
