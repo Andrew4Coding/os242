@@ -86,3 +86,6 @@ ZCZC W07 120 L17 Doing OS Assignment
 ZCZC W07 120 L02 Attending OS Class
 ZCZC W07 120 L17 Doing Week 07 Assignment
 ZCZC W07 120 L05 Doing Pop Quizzes
+ZCZC W08 120 L02 Attending OS Class
+ZCZC W08 120 L02 Attending OS Class
+ZCZC W08 240 L18 Doing OS LFS Assignment
