@@ -89,3 +89,8 @@ ZCZC W07 120 L05 Doing Pop Quizzes
 ZCZC W08 120 L02 Attending OS Class
 ZCZC W08 120 L02 Attending OS Class
 ZCZC W08 240 L18 Doing OS LFS Assignment
+ZCZC W08 240 L05 Doing OS Pop Quiz
+ZCZC W09 120 L02 Attending OS Class
+ZCZC W09 120 L02 Attending OS Class
+ZCZC W09 240 L19 Doing LFS Assignment
+ZCZC W09 240 L05 Pop Quizzes
